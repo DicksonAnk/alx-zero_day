@@ -1,1 +1,1 @@
-My first readme
+This file cannot be left empty
